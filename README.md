@@ -1,5 +1,5 @@
 
-### Profile UI Design
+### Profile UI Design Card
 
 [Click here for link](https://profile-design-2v27.vercel.app/)
 
