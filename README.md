@@ -7,7 +7,7 @@
 
 ![SnapShot](https://github.com/user-attachments/assets/1c9c13fb-816d-4c43-aa32-0c479e01e075)
 
-###### Details:-
+##### Details:-
 1) HTML And CSS
 2) Google Fonts (Poppins)
 3) Logo of Linkedin, GitHub , Facebook And Instagram are taken from " Boxicons.com ".  
